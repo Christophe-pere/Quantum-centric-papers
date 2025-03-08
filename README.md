@@ -22,9 +22,10 @@ Repository to reference the different papers for quantum-centric supercomputing,
 - [List of all papers from 2024](https://github.com/Christophe-pere/Quantum-centric-papers/blob/main/2024/2024.md)
 ### 2023
 - [List of all papers from 2023](https://github.com/Christophe-pere/Quantum-centric-papers/blob/main/2023/2023.md)
-- 
+
 -----
 ## Blogs 
-
+- [IBM Research, 2024, What is quantum-centric supercomputing?](https://www.ibm.com/think/topics/quantum-centric-supercomputing)
+- [IBM Research, 2024, Demonstrating a true realization of quantum-centric supercomputing](https://www.ibm.com/quantum/blog/supercomputing-24)
 ----
 ## Conferences
